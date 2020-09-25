@@ -2,11 +2,11 @@
   <br>
   <a href="https;//www.github.com/ZenX-Official/Supreme-Shortener"><img src="https://free-url-shortener.rb.gy/open-graph.png" alt="Supreme-Shortener"></a>
   <br>
-  Arjun
+  Supreme Shortener For Social Engineering
   <br>
 </h1>
 
-<h4 align="center">Supreme Shortener For Social Engineering</h4>
+<h4 align="center">Coded BY ZenX Official With The Help Of Bro. Brandon</h4>
 
 
 ![Banner](https://i.ibb.co/3Nf7ByH/Banner.png)
